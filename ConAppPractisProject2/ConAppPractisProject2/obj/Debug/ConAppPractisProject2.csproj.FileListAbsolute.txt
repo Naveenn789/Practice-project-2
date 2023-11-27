@@ -1,0 +1,7 @@
+C:\Mphasis\Practise Project\ConAppPractisProject2\ConAppPractisProject2\bin\Debug\ConAppPractisProject2.exe.config
+C:\Mphasis\Practise Project\ConAppPractisProject2\ConAppPractisProject2\bin\Debug\ConAppPractisProject2.exe
+C:\Mphasis\Practise Project\ConAppPractisProject2\ConAppPractisProject2\bin\Debug\ConAppPractisProject2.pdb
+C:\Mphasis\Practise Project\ConAppPractisProject2\ConAppPractisProject2\obj\Debug\ConAppPractisProject2.csproj.AssemblyReference.cache
+C:\Mphasis\Practise Project\ConAppPractisProject2\ConAppPractisProject2\obj\Debug\ConAppPractisProject2.csproj.CoreCompileInputs.cache
+C:\Mphasis\Practise Project\ConAppPractisProject2\ConAppPractisProject2\obj\Debug\ConAppPractisProject2.exe
+C:\Mphasis\Practise Project\ConAppPractisProject2\ConAppPractisProject2\obj\Debug\ConAppPractisProject2.pdb
